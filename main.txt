@@ -5,4 +5,8 @@ Converted from binary to UTF-8 text.
 
 
 temporary change for stash message demo.
+this is a temporary change for stash pop demo
+this is a temporary change for stash drop demo.
+this is a temporay chnage for stash apply demo.
+
 
